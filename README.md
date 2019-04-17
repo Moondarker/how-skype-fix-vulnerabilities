@@ -2,7 +2,7 @@
 
 ![](https://habrastorage.org/files/09a/f14/e02/09af14e02e2b40178b7f543e83707803.png)
 
-### In a nutshell: they don't
+### In a nutshell: they don't at all!
 
 This post describes my fruitless effort to convience Microsoft employees that their service is vulnerable, and humiliation one has to go through should one's account be blocked by a hacker. This is a story of ignorance, pain and despair.
 
